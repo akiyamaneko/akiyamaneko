@@ -6,6 +6,7 @@
 + [loopy/hutool](https://github.com/looly/hutool)
 + [neo4j-contrib/neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector)
 + [apache/ambari](https://github.com/apache/ambari)
++ [alibaba/fastjson](https://github.com/alibaba/fastjson)
 + [polynote/polynote](https://github.com/polynote/polynote)
 + [apache/hbase](https://github.com/apache/hbase)
 + [dmlc/xgboost](https://github.com/dmlc/xgboost)
