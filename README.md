@@ -5,6 +5,7 @@
 
 + [loopy/hutool](https://github.com/looly/hutool)
 + [apache/ambari](https://github.com/apache/ambari)
++ [apache/hadoop](https://github.com/apache/hadoop)
 + [apache/spark](https://github.com/apache/spark)
 + [neo4j-contrib/neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector)
 + [alibaba/fastjson](https://github.com/alibaba/fastjson)
