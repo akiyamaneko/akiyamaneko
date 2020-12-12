@@ -13,5 +13,3 @@
 + [apache/hbase](https://github.com/apache/hbase)
 + [dmlc/xgboost](https://github.com/dmlc/xgboost)
 + [hugegraph/hugegraph](https://github.com/hugegraph/hugegraph)
-
-![](https://camo.githubusercontent.com/785cb66f4b8461d9f43f23e068956ab0f0c8789a/68747470733a2f2f692e696d6775722e636f6d2f6b644b686778362e676966)
