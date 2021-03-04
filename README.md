@@ -1,4 +1,4 @@
-![akiyamaneko's github stats](https://github-readme-stats.vercel.app/api?username=akiyamaneko&theme=radical) 
+![kyoty's github stats](https://github-readme-stats.vercel.app/api?username=kyoty&theme=radical) 
 
 
 # Contributions
