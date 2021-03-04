@@ -3,7 +3,7 @@
 
 # Contributions
 
-+ [loopy/hutool](https://github.com/looly/hutool)
++ [looly/hutool](https://github.com/looly/hutool)
 + [apache/ambari](https://github.com/apache/ambari)
 + [apache/hadoop](https://github.com/apache/hadoop)
 + [apache/spark](https://github.com/apache/spark)
